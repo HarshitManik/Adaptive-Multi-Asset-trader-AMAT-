@@ -1,6 +1,6 @@
-# daptive Multi-Asset Quantitative Trading Strategy
+# Adaptive Multi-Asset Quantitative Trading Strategy
 
-AEGIS is a QuantConnect LEAN research project exploring a rules-based, long-only portfolio across US equities, cryptocurrency, and major FX pairs. It combines technical-indicator signals, volatility-aware position sizing, asset-class allocation limits, and an epsilon-greedy strategy-selection experiment.
+ QuantConnect LEAN research project exploring a rules-based, long-only portfolio across US equities, cryptocurrency, and major FX pairs. It combines technical-indicator signals, volatility-aware position sizing, asset-class allocation limits, and an epsilon-greedy strategy-selection experiment.
 
 > **Research disclaimer:** This repository contains experimental backtesting code. The historical backtest is not evidence of a live-trading edge, a forecast of future returns, or investment advice.
 
